@@ -1,0 +1,10 @@
+server:
+  port: 9887
+
+#freemarker:
+#  suffix: ftl
+#  content-type: text/html
+#  charset: UTF-8
+#  template-loader-path: classpath:/views/
+
+#freemarker
